@@ -1,0 +1,7 @@
+
+dart_application/test/dart_application_test.dart
+dart_application/analysis_options.yaml
+dart_application/CHANGELOG.md
+dart_application/pubspec.lock
+*.yaml
+dart_application/lib/dart_application.dart
